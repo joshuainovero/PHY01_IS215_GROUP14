@@ -6,7 +6,7 @@ classdef SupermanSaves
     end
     
     properties (Constant)
-        g = 9.81;
+        g = 9.8;
         dt = 5;
     end
     
