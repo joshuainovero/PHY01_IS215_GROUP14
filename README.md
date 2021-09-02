@@ -7,8 +7,7 @@ Determined to test the law of gravity for himself, a student walks off a skyscra
 ```sh
 solve = SupermanSaves();
 ```
-A). What must the  of initial velocity so that Superman catches the student just before they reach the ground? <br>
+A). What must the  of initial velocity so that Superman catches the student just before they reach the ground? <br><br>
 Amount of time it takes the student to reach the ground: <br>
-<center>
+
 <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;h=\frac{1}{2}gt^2&space;\rightarrow&space;t_0{}=\sqrt{\frac{2h}{g}}" title="\large h=\frac{1}{2}gt^2 \rightarrow t_0{}=\sqrt{\frac{2h}{g}}" />
-  </center>
