@@ -11,3 +11,4 @@ A). What must the  of initial velocity so that Superman catches the student just
 Amount of time it takes the student to reach the ground: <br>
 
 <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;h=\frac{1}{2}gt^2&space;\rightarrow&space;t_0{}=\sqrt{\frac{2h}{g}}" title="\large h=\frac{1}{2}gt^2 \rightarrow t_0{}=\sqrt{\frac{2h}{g}}" />
+<img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;\Delta&space;t&space;=&space;t_0{}&space;-&space;5s&space;\rightarrow&space;remaining\&space;time\&space;for\&space;superman\&space;to\&space;catch\&space;the\&space;student." title="\large \Delta t = t_0{} - 5s \rightarrow remaining\ time\ for\ superman\ to\ catch\ the\ student." />
