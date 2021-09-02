@@ -9,4 +9,6 @@ solve = SupermanSaves();
 ```
 A). What must the  of initial velocity so that Superman catches the student just before they reach the ground? <br>
 Amount of time it takes the student to reach the ground: <br>
-<img style="text-align:center;" src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;h=\frac{1}{2}gt^2&space;\rightarrow&space;t_0{}=\sqrt{\frac{2h}{g}}" title="\large h=\frac{1}{2}gt^2 \rightarrow t_0{}=\sqrt{\frac{2h}{g}}" />
+<center>
+<img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;h=\frac{1}{2}gt^2&space;\rightarrow&space;t_0{}=\sqrt{\frac{2h}{g}}" title="\large h=\frac{1}{2}gt^2 \rightarrow t_0{}=\sqrt{\frac{2h}{g}}" />
+  </center>
