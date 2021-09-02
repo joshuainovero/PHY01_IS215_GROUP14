@@ -23,8 +23,8 @@ classdef SupermanSaves
         end
         function self = plotGraph(self)
             x = [0:0.1:10];
-            st_func = 180-((1/2)*self.g*x.^2);
-            sm_func = 180-(-self.SM_Vo*(x-self.dt)+(1/2)*self.g*(x-self.dt).^2);
+            st_func = self.height-((1/2)*self.g*x.^2);
+            sm_func = self.height-(-self.SM_Vo*(x-self.dt)+(1/2)*self.g*(x-self.dt).^2);
             plot(x,st_func,x,sm_func);
             title('POISITIONS OF STUDENT AND SUPERMAN AS FUNCTIONS OF TIME');
             xlim([0,10]);
