@@ -1,4 +1,4 @@
-# PHY01_MATLABACT1_INOVERO
+# PHY01_IS215_GROUP14
 
 Submission for Physics01
 
