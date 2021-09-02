@@ -28,5 +28,5 @@ B). On the same graph, sketch the positions of the student and of Superman as fu
 disp('b). Graph showing in the figure...');
 solve.plotGraph();
 ```
-C). If the height of the skyscraper is less than some minimum value, even Superman can’t reach the student before he hits the ground. What is this minimum height?
+C). If the height of the skyscraper is less than some minimum value, even Superman can’t reach the student before he hits the ground. What is this minimum height?<br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;h=\frac{1}{2}gt^2" title="\large h=\frac{1}{2}gt^2" />
