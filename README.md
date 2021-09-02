@@ -20,5 +20,5 @@ solve = solve.getSupermanVo();
 fprintf('a). The initial velocity must be %.2fm/s\n', solve.SM_Vo);
 ```
 <br>
-B). On the same graph, sketch the positions of the student and of Superman as functions of time. Take Superman’s initial speed to have the value calculated in part (a). <br>
+B). On the same graph, sketch the positions of the student and of Superman as functions of time. Take Superman’s initial speed to have the value calculated in part (a). <br><br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;Student\&space;f(t)&space;=&space;height-\frac{1}{2}gt^2\\&space;Superman\&space;f(t)&space;=&space;height-(V_o{}(t-5)&plus;\frac{1}{2}g(t-5)^2)" title="\large Student\ f(t) = height-\frac{1}{2}gt^2\\ Superman\ f(t) = height-(V_o{}(t-5)+\frac{1}{2}g(t-5)^2)" />
