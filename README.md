@@ -13,7 +13,7 @@ Amount of time it takes the student to reach the ground: <br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;h=\frac{1}{2}gt^2&space;\rightarrow&space;t_0{}=\sqrt{\frac{2h}{g}}" title="\large h=\frac{1}{2}gt^2 \rightarrow t_0{}=\sqrt{\frac{2h}{g}}" />
 <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;\Delta&space;t&space;=&space;t_0{}&space;-&space;5s&space;\rightarrow&space;remaining\&space;time\&space;for\&space;superman\&space;to\&space;catch\&space;the\&space;student." title="\large \Delta t = t_0{} - 5s \rightarrow remaining\ time\ for\ superman\ to\ catch\ the\ student." />
 Superman's initial velocity:
-<img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;h=V_o{t}&plus;\frac{1}{2}gt^2\rightarrow&space;V_o{}=\frac{-h&plus;\frac{1}{2}g\Delta&space;t^2)}{\Delta&space;t}" title="\large h=V_o{t}+\frac{1}{2}gt^2\rightarrow V_o{}=\frac{-h+\frac{1}{2}g\Delta t^2)}{\Delta t}" /><br>
+<img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;h=V_o{t}&plus;\frac{1}{2}gt^2\rightarrow&space;V_o{}=\frac{-h&plus;\frac{1}{2}g\Delta&space;t^2)}{\Delta&space;t}" title="\large h=V_o{t}+\frac{1}{2}gt^2\rightarrow V_o{}=\frac{-h+\frac{1}{2}g\Delta t^2)}{\Delta t}" />
 ```sh
 solve = solve.getSupermanVo();
 fprintf('a). The initial velocity must be %.2fm/s\n', solve.SM_Vo);
