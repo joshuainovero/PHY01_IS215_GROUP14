@@ -15,7 +15,7 @@ Amount of time it takes the student to reach the ground: <br>
 Superman's initial velocity:<br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;h=V_o{t}&plus;\frac{1}{2}gt^2\rightarrow&space;V_o{}=\frac{-h&plus;\frac{1}{2}g\Delta&space;t^2)}{\Delta&space;t}" title="\large h=V_o{t}+\frac{1}{2}gt^2\rightarrow V_o{}=\frac{-h+\frac{1}{2}g\Delta t^2)}{\Delta t}" /> <br>
 
-```sh
+```matlab
 solve = solve.getSupermanVo();
 fprintf('a). The initial velocity must be %.2fm/s\n', solve.SM_Vo);
 ```
@@ -24,13 +24,13 @@ B). On the same graph, sketch the positions of the student and of Superman as fu
 <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;Student\&space;f(t)&space;=&space;height-\frac{1}{2}gt^2\\&space;Superman\&space;f(t)&space;=&space;height-(V_o{}(t-5)&plus;\frac{1}{2}g(t-5)^2)" title="\large Student\ f(t) = height-\frac{1}{2}gt^2\\ Superman\ f(t) = height-(V_o{}(t-5)+\frac{1}{2}g(t-5)^2)" /> 
 
 ![Capture](https://user-images.githubusercontent.com/78135477/131780583-bc262ae6-c920-48e4-a610-84732a6f2e8a.PNG) <br>
-```sh
+```matlab
 disp('b). Graph showing in the figure...');
 solve.plotGraph();
 ```
 C). If the height of the skyscraper is less than some minimum value, even Superman can’t reach the student before he hits the ground. What is this minimum height?<br><br>
 <img src="https://latex.codecogs.com/gif.latex?\bg_white&space;\large&space;h=\frac{1}{2}gt^2" title="\large h=\frac{1}{2}gt^2" />
-```sh
+```matlab
 solve = solve.getMinHeight();
 fprintf('c). The minimum height will be %.2fm', solve.min_height);
 ```
